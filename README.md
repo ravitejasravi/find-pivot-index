@@ -28,7 +28,7 @@ Example 3:
 Input: nums = [2,1,-1]<br>
 Output: 0
 
-Explanation:
-The pivot index is 0.
-Left sum = 0 (no elements to the left of index 0)
+Explanation:<br>
+The pivot index is 0.<br>
+Left sum = 0 (no elements to the left of index 0)<br>
 Right sum = nums[1] + nums[2] = 1 + -1 = 0
